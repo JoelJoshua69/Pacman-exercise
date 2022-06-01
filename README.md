@@ -1,4 +1,4 @@
-# Pacman-exercise
+# Exercise : Pacman-exercise
 # Desciption : The factory for pacman exercise uses HTML and Javascript.This allows users to add pacman models that move forward as well as up and down the screen and 
 # change direction as they hit the edge of the screen.
 
